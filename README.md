@@ -1,9 +1,8 @@
-Projeto Front-End.
+Sistema web desenvolvido em PHP para gerenciamento de contas bancárias e controle financeiro. A aplicação permite que usuários autenticados realizem o cadastro, consulta, alteração e exclusão de contas, utilizando operações CRUD e integração com banco de dados.
 
-Projeto desenvolvido com a turma do Curso de Front-End básico com responsividade nativa
-
-As técnologias utilizadas foram 
--> HTML 5
-->Css 3
-->Javascript Nativo
-->Projeto com Responsividade Nativa (@media screen)
+Tecnologias
+PHP
+MySQL
+HTML5
+CSS3
+JavaScript
